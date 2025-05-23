@@ -1,4 +1,4 @@
-# Meteorus - program that detects meteorites and rocket debris and sends alerts to Grafana
+# Meteor Detector - program that detects meteorites and rocket debris and sends alerts to Grafana
 # Copyright (C) 2025 Lev Bartolomey, Andrew Petrov
 
 import cv2
